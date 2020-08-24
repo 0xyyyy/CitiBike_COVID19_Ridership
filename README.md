@@ -10,9 +10,9 @@ Purpose: To create a dashboard exploring the difference in peak ride times and m
 
 ### Top Starting Stations and Avg. Trip Duration
 
-![dashboard1](/README_images/top_start_stations.PNG)
+![dashboard1](/README_Images/top_start_stations.PNG)
 
 ### Peak Ride Times by Gender 
 
-![dashboard2](/README_images/peak_ride_times.PNG)
+![dashboard2](/README_Images/peak_ride_times.PNG)
 
